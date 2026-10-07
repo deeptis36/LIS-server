@@ -1,0 +1,6 @@
+{
+  "analyzer_ip": "10.10.10.2",
+  "tcp_port": "5002",
+  "source_device": "ERBA 360",
+  "api_endpoint": "http://rims.admin.laravel.test/api/v1/hospital/rims/analyzer-webhook"
+}
